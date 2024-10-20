@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = 'AW35CVHBM0XLWX39'
+API_KEY = 'demo'
 BASE_URL = 'https://www.alphavantage.co/query'
 symbol = "GRAB"  # changed accordingly to stock symbol
 
